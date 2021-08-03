@@ -1,17 +1,22 @@
-<h2> Hi, there! 👋🏽</h2>
-<h1>Welcome to my profile!✨</h1>
+## Hi, there! 👋🏽 
+| <a href="https://github.com/t4lu/t4lu/tree/traducao" target="_blank"><i>Clique aqui para ler a Tradução</i></a></h2>
+| -------:
+
+
+
+<h1>Welcome to my profile!✨</h1> <h2>
 
 <img align="left" height="215cm" src="https://github-readme-stats.vercel.app/api?username=t4lu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 <p  align="right">
-<h2>You can call me <i>talu</i>✨</h2>
+<h2>You can call me as <i>talu</i>✨</h2>
 <h6 align="right"><i>pronouns: she/her</i></h6>
 
 <h3> I'm an english teacher, translator and subtitler from São Paulo, Brazil.
 
 <h3>I love dedicating my efforts and skills on stuff that empowers me and my beliefs; that's why I started my journey as a software/web development student 💻. 
 
-<h3>Below you can check how I started some of my programming skills and how it has been going 😅... </h3>
+<h3>Below you can check out my programming skills and how I've been doing 😅... </h3>
 </p>
 
   ![Snake animation](https://github.com/t4lu/t4lu/blob/output/github-contribution-grid-snake.svg)
