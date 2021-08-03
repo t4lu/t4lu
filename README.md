@@ -1,32 +1,32 @@
-<h2> Hi, there! 👋🏽</h2>
-<h1>Welcome to my profile!✨</h1>
+<h2> Olá! 👋🏽</h2>
+<h1>Bem-vinda(o/e/u) ao meu perfil!✨</h1>
 
 <img align="left" height="215cm" src="https://github-readme-stats.vercel.app/api?username=t4lu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 <p  align="right">
-<h2>You can call me <i>talu</i>✨</h2>
-<h6 align="right"><i>pronouns: she/her</i></h6>
+<h2>Você pode me chamar de <i>talu</i>✨</h2>
+<h6 align="right"><i>pronomes: ela/dela</i></h6>
 
-<h3> I'm an english teacher, translator and subtitler from São Paulo, Brazil.
+<h3> Sou professora de inglês, tradutora e legendadora e moro em São Paulo, Brasil.
 
-<h3>I love dedicating my efforts and skills on stuff that empowers me and my beliefs; that's why I started my journey as a software/web development student 💻. 
-
-<h3>Below you can check how I started some of my programming skills and how it has been going 😅... </h3>
+<h3>Eu amo dedicar os meus esforços e habilidades em coisas que fortalecem a mim e minhas crenças; por isso comecei minha jornada como estudante de desenvolvimento de software / web 💻. 
+  
+<h3>Abaixo, você pode verificar as minhas habilidades em programação e como tenho me saído 😅... </h3>
 </p>
 
   ![Snake animation](https://github.com/t4lu/t4lu/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
   
-  <img align="right" height="220cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lu&layout=compact&langs_count=7&theme=dracula" alt=""/>
+  <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lu&layout=compact&langs_count=7&theme=dracula" alt=""/>
   
 <h3> ✨Back-End</h3>
 <div style="display: inline_block; padding-right:100">
-<a href="https://www.java.com" target="_blank" title="Java"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/></a> 
-<a href="https://www.mysql.com/" target="_blank" title="MySQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></a>
-<a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/></a>
-<a href="https://postman.com" target="_blank" title="PostMan"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width=width="70" height="70"/></a> 
-<a href="https://spring.io/" target="_blank" title="SpringBoot"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="70" height="70"/></a>
+<a href="https://www.java.com" target="_blank" title="Java"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a> 
+<a href="https://www.mysql.com/" target="_blank" title="MySQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>
+<a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
+<a href="https://postman.com" target="_blank" title="PostMan"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/></a> 
+<a href="https://spring.io/" target="_blank" title="SpringBoot"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/></a>
 </div>
 
 
@@ -43,7 +43,7 @@
 </div>
 
 <hr>
-<h3> ✨ My Workspace 💻 </h3>
+<h3> ✨ Minha Workspace 💻 </h3>
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -51,8 +51,8 @@
 </div>
 
 <hr>
-<h3> ✨ Extra Skills*</h3>
-<h6><i>* Not related to programming, but I'm great at: </i></h6>
+<h3> ✨ Habilidades Extras*</h3>
+<h6><i>* Não estão relacionadas à programação, mas eu mando muito bem:</i></h6>
 
 <div style="display: inline_block"><br>
 <a href="https://www.canva.com/" target="_blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2020/11/canva-logo-1.png" title="Canva" width="70" height="70"></a>
@@ -65,12 +65,15 @@
 
 ##
   
-<h3>I'm always open to conversation, tips, feedbacks, etc; so feel free to get in touch:</h3>
+<h4>Estou sempre aberta ao diálogo, às dicas, feedbacks, etc; fique à vontade para entrar em contato comigo:</h4>
 
 <p align="left">
 <a href="https://linkedin.com/in/t4lu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t4lu" height="60" width="70" /></a>
 </p>
 
-<h1 align="left">Thank you for scrolling down!💜</h1>
+<h1 align="left">Muito obrigada por sua visita!💜</h1>
   
   <a href="https://github.com/t4lu" target="_blank">  <p align="left"> <img src="https://komarev.com/ghpvc/?username=t4lu&label=Profile%20views&color=7e29ff&style=plastic" alt="t4lu" /> </p>
+    
+| <a href="https://github.com/t4lu" target="_blank"><i>início</i></a>
+:--------- |
