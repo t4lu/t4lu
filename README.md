@@ -7,7 +7,7 @@
 <h2>Você pode me chamar de <i>talu</i>✨</h2>
 <h6 align="right"><i>pronomes: ela/dela</i></h6>
 
-<h3> Sou professora de inglês, tradutora e legendadora e moro em São Paulo, Brasil.
+<h3> Sou professora de inglês, tradutora e legendista e moro em São Paulo, Brasil.
 
 <h3>Eu amo dedicar os meus esforços e habilidades em coisas que fortalecem a mim e minhas crenças; por isso comecei minha jornada como estudante de desenvolvimento de software / web 💻. 
   
