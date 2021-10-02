@@ -30,7 +30,7 @@
 <a href="https://angular.io" target="_blank" title="Angular"><img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" width="35" height="35"/></a>
 <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"></a>
+<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"></a>  <a href="https://reactjs.org/" target="_blank" title="React"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"</a>
 
 ![Snake animation](https://github.com/t4lu/t4lu/blob/output/github-contribution-grid-snake.svg)
 
