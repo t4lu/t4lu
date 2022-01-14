@@ -8,9 +8,9 @@
 <h6 align="right"><i>pronouns: she/her</i></h6>
   
 <p> I'm an english teacher, translator, and subtitler from São Paulo, Brazil. </p>
-<p> I love dedicating my efforts and skills on stuff that empowers me and my beliefs; that's why I started my journey as a software/web development student 💻.</p>
+<p> Now working as a Jr. Software Engineer @ Cora Bank 💻.</p>
   
-<h3>Check out my programming skills: </h3>
+<h3>these are my programming skills: </h3>
   
 <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lu&layout=compact&langs_count=7&theme=midnight-purple"/> 
             
