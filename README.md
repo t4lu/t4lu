@@ -6,7 +6,7 @@
 <h6 align="right"><i>pronomes: ela/dela</i></i></h6>
   
 <p>Sou professora de inglês, tradutora e legendista e moro em São Paulo, Brasil.</p>
-<p>Amo dedicar os meus esforços e habilidades em coisas que fortalecem a mim e minhas crenças; por isso comecei minha jornada como estudante de desenvolvimento de software/web 💻. </p>
+<p>Atualmente trabalho como Engenheira de Software Jr. no Banco Cora 💻. </p>
   
 <h3>Essas são as minhas habilidades com programação: </h3>
   
