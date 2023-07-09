@@ -8,7 +8,7 @@
   
   ### I'm a former Teacher, bachelor in Translation and, after a career Transition in 2021, 
   
-  ### I've been exploring a T-shaped professional career in software development.
+  ### I've been exploring and improving my T-shaped skills to build my career as a software engineer. 
   
   ### What's your "T"? 😂
 </p>
