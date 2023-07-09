@@ -6,7 +6,9 @@
  
   ### My name is Talita, but you can call me Talu. 😊
   
-  ### I'm a former Teacher, bachelor in Translation and, after a career Transition in 2021, I've been exploring a T-shaped professional career in software development.
+  ### I'm a former Teacher, bachelor in Translation and, after a career Transition in 2021, 
+  
+  ### I've been exploring a T-shaped professional career in software development.
   
   ### What's your "T"? 😂
 </p>
