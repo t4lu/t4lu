@@ -15,9 +15,9 @@
 
 ![Snake animation](https://github.com/t4lu/t4lu/blob/output/github-contribution-grid-snake.svg)
 
-<img align="left" height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lu&layout=compact&langs_count=7&theme=dracula" alt="My github stats"/>
+<img align="left" height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lu&layout=compact&langs_count=7&theme=dracula" alt="My github stats"/>
 
-<img align="right" height="190cm" src="https://github-readme-stats.vercel.app/api?username=t4lu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img align="right" height="100cm" src="https://github-readme-stats.vercel.app/api?username=t4lu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 <hr>
 <hr>
