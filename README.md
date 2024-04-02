@@ -1,16 +1,12 @@
-## Hi, there! 👋🏽
-
-# Welcome to my profile!✨
+### Career changer!✨
 
 <p  align="left">
  
-  ### My name is Talita, but you can call me Talu. 😊
+####  Leveraged my background in education (English teacher) and languages (translator & subtitler) to a career transition to software and web development, in 2021. 
   
-  ### I'm a former Teacher, bachelor in Translation and, after a career Transition in 2021, 
+####  As a Junior full-stack developer, I recently completed reprograma's JavaScript Immersion ("Imersão JavaScript") for software development, then started Udemy's The Web Developer Bootcamp to further enhance my skills in web development
   
-  ### I've been exploring and improving my T-shaped skills to build my career as a software engineer. 
-  
-  ### What's your "T"? 😂
+####  I'm Eager to showcase all my creativity, growth mindset and organizational skills, honed in my diverse professional background, along with my growing proficiency in JavaScript and ReactJS. 
 </p>
 
 ![Snake animation](https://github.com/t4lu/t4lu/blob/output/github-contribution-grid-snake.svg)
@@ -34,6 +30,6 @@
 
 <p align="left">
   
-  ### I'm always open to conversations, tips or feedbacks. Let's connect!
+  #### Let's connect!
   <a href="https://linkedin.com/in/t4lu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo " height="30" width="30" /></a>
 </p>
